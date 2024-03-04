@@ -1,7 +1,7 @@
 # SKT FLY AI 4th
 ## Lawydot Project
 ### 🤖 법률 챗봇 서비스 개발을 위해 필요한 AI 모델 구현
-
+  
 ### Classfication
 - 사용자의 입력의 민사/형사 사건 구분을 위한 분류 모델 구현
 1. BERT
@@ -25,7 +25,7 @@
    - 2023년에 Goolge이 선보인 LLM
    - OpenAI의 GPT-4의 경쟁자로 자리매김
   
-📍 가장 좋은 성능을 보인 Gemini를 사용하기로 결정
+📍 가장 좋은 성능을 보인 Gemini를 사용하기로 결정  
 📍 API KEY 사용이 무료라는 점에서 경제적으로 사용 가능
 
 ### Similarity 
@@ -39,5 +39,5 @@
    - Cosine
    - Jaccard
 
-📍 가장 좋은 성능을 보인 BERT + Cosine 방법으로 유사도 구하기로 결정
+📍 가장 좋은 성능을 보인 BERT + Cosine 방법으로 유사도 구하기로 결정  
 📍 0.56까지 유사도 성능을 높였고 사용자 입력과 유사한 기존 판례 데이터가 나오는 것을 확인해 볼 수 있음
