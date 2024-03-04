@@ -36,6 +36,7 @@
    - BERT
    - RoBERT
 2. Similarity
+   - 벡터 내적
    - Cosine
    - Jaccard   
 
