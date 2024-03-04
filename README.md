@@ -1,4 +1,4 @@
-# SKT FLY AI 4th
+## SKT FLY AI 4th
 ## Lawydot Project
 ### 🤖 법률 챗봇 서비스 개발을 위해 필요한 AI 모델 구현   
   
